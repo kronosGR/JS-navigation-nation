@@ -3,7 +3,7 @@
 * HTML
 * CSS
 * Javascript
-* 
+* CSS/JS Animations 
 
 
 ## Live site
